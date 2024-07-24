@@ -1,2 +1,2 @@
 # virusmuseum.github.io
-It's a museum of the famous computer virus. The languages is chinese.
+It's a museum of some famous computer virus. The languages is chinese.
